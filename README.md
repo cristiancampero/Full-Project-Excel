@@ -6,38 +6,29 @@
 
 <br>
 
-Este proyecto consiste en la creación de un Dashboard en Excel que permita visualizar y analizar datos de manera rápida y sencilla
+El objetivo de este proyecto consiste en la creación de un Dashboard en Excel que permita visualizar y analizar datos de manera clara y efectiva.
 
-Se han realizado tareas de limpieza de datos y se han creado tablas pivot y gráficos para poder mostrar los datos de manera clara y precisa.
-
-Para este proyecto se utilizó la versión de Excel Online
-
-
+Para lograr esto, se realizaron las siguientes tareas:
 
 <br>
 
-## Limpieza de datos
----
-Para la limpieza de datos, se realizaron tareas como:
+### Limpieza de datos:
 
 - Eliminación de datos duplicados
 - Búsqueda y reemplazo de valores
-- Corrección de errores de formato
+- Creacion de columna
 
 <br>
 
-## Creación de Tablas Pivot
----
+### Creación del Dashboard
 
-- Selección de datos a incluir en la tabla pivot
-- Agregación de campos
-- Agregación de gráficos
+- Creación de tablas Pivot
+- Creación de gráficos interactivos
+- Creación de filtros (slicers)
 
 <br>
 
-## Creación del Dashboard
 ---
+## Dataset
 
-- Agregación de gráficos
-- Agregación de slicers
-- Diseño del dashboard
+Puedes descargar el archivo Excel con todo el proyecto [aquí](Excel_Project_Dataset.xlsx)
